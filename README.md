@@ -14,7 +14,7 @@ The script performs the following steps:
 6. Sorts the list in ascending order.
 7. Finds and prints the index of the value `30` in the list.
 
-<!-- How to Run -->
+# How to Run
 1. Clone the repository.
 2. Run the Python script with:
 
